@@ -1,2 +1,3 @@
 # ConsoleMenu
-A simple menu system for console applications
+A very simple menu system for console applications.
+Based on both answers here: https://stackoverflow.com/questions/22131975/how-to-highlight-and-select-console-text-in-c-sharp-console
